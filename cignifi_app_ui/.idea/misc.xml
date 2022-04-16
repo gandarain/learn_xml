@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.1405" />
+        <entry key="app/src/main/res/drawable/bg_edit_text.xml" value="0.1405" />
         <entry key="app/src/main/res/drawable/bottom_bubble.xml" value="0.1405" />
         <entry key="app/src/main/res/drawable/top_bubble.xml" value="0.1405" />
         <entry key="app/src/main/res/drawable/top_buble.xml" value="0.1405" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_splash_screen_acitvity.xml" value="0.14175724637681159" />
       </map>
     </option>
