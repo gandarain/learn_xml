@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import com.example.cignifi_app_ui.databinding.ActivitySplashScreenAcitvityBinding
 
-class SplashScreenAcitvity : AppCompatActivity() {
+class SplashScreenActivity : AppCompatActivity() {
     private var binding: ActivitySplashScreenAcitvityBinding? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
