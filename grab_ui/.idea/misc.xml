@@ -7,6 +7,7 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1405" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.14175724637681159" />
+        <entry key="app/src/main/res/layout/activity_verify_otp.xml" value="0.25" />
       </map>
     </option>
   </component>

@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Grab_ui">
         <activity
+            android:name=".VerifyOtpActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
