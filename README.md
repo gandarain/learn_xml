@@ -18,3 +18,10 @@ https://id.pinterest.com/pin/634163191284764540/
 ### Preview
 ![cignifi-ui](https://user-images.githubusercontent.com/27923352/163699612-a330897f-29e7-483c-84e1-9a71d0ccf7d3.gif)
 
+## Grab UI
+
+### Resource
+https://hamamul-fauzi.medium.com/part-1-membangun-aplikasi-tiruan-grab-dengan-flutter-splash-screen-36ea9fc77e75
+
+### Preview
+![grab-ui](https://user-images.githubusercontent.com/27923352/163826232-5ada6e44-1024-463a-9619-1cfda10d4c56.gif)
